@@ -1,2 +1,14 @@
 @import 'normalize.css';
+@import 'modal.css';
+@import 'image-grid.css';
+
+body {
+    background-color: rgb(128, 121, 121);
+}
+.container {
+    margin: 0 auto;
+    max-width: 1024px;
+    background-color: rgb(184, 174, 163);
+}
+
 
